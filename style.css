@@ -74,7 +74,7 @@ body{/*主页颜色和背景*/
         transition:0.5s linear;
     }
 .p2 a:hover{
-   color: red;
+   color: red;/*鼠标放置后为红色*/
    transition:0.1s linear;/*过渡时间*/
 } 
 .p1{
